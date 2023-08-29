@@ -14,6 +14,7 @@ Spatial data in the form of .geojson and .json files were used for spatial analy
 For this project the following tools, programs, and applications were used:
 * Excel - for intial data collection
 * Python - for analysis
+* Jupyter notebooks - for scripts
 * Tableau - for visualizations
 
 ## Resources
