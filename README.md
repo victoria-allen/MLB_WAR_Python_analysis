@@ -21,3 +21,5 @@ For this project the following tools, programs, and applications were used:
 Relevant resources will be posted here.
 ### Tableau Visualizations for this project
 [This](https://public.tableau.com/views/MLBWARWhatisitGoodFor/MLBWARWhatIsItGoodFor?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) is a link to visualizations that show findings from this project. 
+### Project Case Study
+[This](https://www.victoriaallendata.com/mlb-player-contract-evaluation) is a link to the prject on website.
